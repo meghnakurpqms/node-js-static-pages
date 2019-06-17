@@ -1,0 +1,68 @@
+{
+  "profiles": [
+    {
+      "firstname": "Rachel",
+      "lastname": "Greene",
+      "bio":
+        "Rachel Karen Green was born to Leonard and Sandra Green, who gave her and her two sisters Jill and Amy a rather spoiled upbringing. Rachel originally had a big nose but she later got a nose job. She met Monica Geller for the first time when they were both six years old. They quickly became best friends, remaining exactly that from then until attending the same high school. Rachel also soon met Monica's older brother, Ross, who developed a crush on her which he ultimately decided to keep to himself, although years later Rachel admitted she knew about his crush. Ross knew she would have rejected him.",
+        "tagline": "Executive at Ralph Lauren",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "rachel-greene.jpg",
+      "id": "green"
+    },
+
+    {
+      "firstname": "Monica",
+      "lastname": "Geller",
+      "bio":
+        "Monica is Ross' younger sister, and the daughter of Jack and Judy Geller. Monica, like the rest of her family, is Jewish. She had a slightly difficult childhood, characterized by the bickering which took place between her and her brother (some culminating in memorable events such as the Geller Cup, which took place every Thanksgiving). She also had, and still has, a difficult relationship with her parents (especially her mother) who unconsciously favors Ross over her on various occasions.",
+        "tagline": "Head Chef at Javu's",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "monica-geller.jpg",
+      "id": "monica"
+    },
+
+    {
+      "firstname": "Phoebe",
+      "lastname": "Buffay",
+      "bio":
+        "Phoebe is a sweet-natured but odd guitar player. Having experienced nothing like a normal, complete childhood, Phoebe is often very dim-witted, sometimes smart and is in some regards still a child at heart. She believed Santa Claus existed, until Joey told her otherwise. Phoebe also shocks some people in the story line with her frankness on occasions that it catches them off guard from her usual self. This straightforwardness is a running gag throughout the Friends series. Phoebe becomes noticeably a little more intelligent during the last two seasons.",
+        "tagline": "Masseuse",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "phoebe-buffay.jpg",
+      "id": "Phoebe"
+    },
+    {
+      "firstname": "Joey",
+      "lastname": "Tribbiani",
+      "bio":
+        "Joey is generally good-natured and well-meaning, but not-so-bright. He loves food, women, sex, family, friends, jam, and the New York Knicks.",
+        "tagline": "Actor",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "joey-tribbiani.jpg",
+      "id": "joey"
+    },
+    {
+      "firstname": "Chandler",
+      "lastname": "Bing",
+      "bio":
+        "Chandler Muriel Bing was born April 8, 1968. Chandler is the son of erotic novelist Nora Tyler Bing and cross-dressing burlesque star Charles 'Helena Handbasket' Bing, who performs his all-male burlesque show, 'Viva Las Gay-gas' in Las Vegas, where he/she lives. Throughout most of the series, Chandler is an executive specialized in statistical analysis and data reconfiguration, occupying high-grade positions such as Processing Manager and head of the office. He frequently complains about his dislike of his job, and quits in Season 9, finding employment as a Junior Copywriter in an advertising agency.",
+        "tagline": "Junior Advertising Copywriter",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "chandler-bing.jpg",
+      "id": "chandler"
+    },
+    {
+      "firstname": "Ross",
+      "lastname": "Geller",
+      "bio":
+        "He was born to Jack and Judy Geller and raised by them on Long Island, New York. He is the older brother of Monica. When Ross was younger, he dressed up as a woman (with his mother's clothes). He did a song of the following 'I am Bea / I drink tea / Won't you dance around with me?'. Growing up attended the same high school as Rachel (as did Monica) where he eventually developed a crush on her which he kept to himself, although Rachel later admitted she knew about his crush.",
+        "tagline": "Paleontologist and Professor",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "ross-geller.jpeg",
+      "id": "ross"
+    }
+
+
+  ]
+}
